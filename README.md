@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=51taek&show_icons=true&theme=radical)
 
 //깃헙 언어 사용 스탯
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=51taek&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=51taek&layout=compact)
 
 // 백준 등급
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owt0511)](https://solved.ac/owt0511/)
