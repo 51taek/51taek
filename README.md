@@ -9,12 +9,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=51taek&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owt0511)](https://solved.ac/owt0511/)
-
----
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=51taek&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/51taek"
-  width="600"
-  height="300"
-/>
-</a>
