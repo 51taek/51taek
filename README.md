@@ -7,5 +7,5 @@
 개발에 있어서 가장 중요한 것은 '사용자의 만족감'이라고 생각합니다. 기술적인 내용보다 개발 과정에서 고민하고 그 내용을 글로 남기는 것을 좋아합니다.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=51taek&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=51taek&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owt0511)](https://solved.ac/owt0511/)
