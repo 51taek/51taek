@@ -6,6 +6,16 @@
 
 개발에 있어서 가장 중요한 것은 '사용자의 만족감'이라고 생각합니다.
 
+Experience
+---
+스타트업 Plot BE 프리랜서, Spring Boot (2025.07-2025.11) | Plot(https://plotting.kr)
+IT 동아리 CMC 17th BE, Spring Boot (2025.11-2026.03) | 아카이뷰()
+교내 IT 동아리 Depth 4th BE, Spring Boot (2025.03-2026.02)
+교외 IT 동아리 GoormthonUniv 4th BE, Spring Boot (2025.03-2025.11)
+사이드프로젝트 Cadify BE, Spring Boot (2025.12-2026.06)
+스타트업 에잇블룸 BE, Nest JS (2023.07-2023.10)
+
+
 
 ![Stats](./profile/stats.svg)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owt0511)](https://solved.ac/owt0511/)
