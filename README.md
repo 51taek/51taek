@@ -11,8 +11,9 @@
 | Period | Organization / Project | Role | Tech | Links |
 |---|---|---|---|---|
 | 2025.07 - 2025.11 | Plot | Backend 프리랜서 | Spring Boot | [Service](https://plotting.kr) |
+| 2026.06 - 현재 | Clio | Backend | Spring Boot | [GitHub](https://github.com/team-clio/clio-server) |
+| 2025.12 - 2026.06 | Depth 4th - Finvibe | Backend | Spring Boot, Redis, Kafka | [GitHub](https://github.com/DEPth-FinVibe/Finvibe_Backend_Monolith) / [Blog](https://onetaek.tistory.com/36) |
 | 2025.11 - 2026.03 | CMC 17th - 아카이뷰 | Backend | Spring Boot | [GitHub](https://github.com/Central-MakeUs/Archiview_Server) |
-| 2025.03 - 2026.02 | Depth 4th - Finvibe | Backend | Spring Boot, Redis, Kafka | [GitHub](https://github.com/DEPth-FinVibe/Finvibe_Backend_Monolith) / [Blog](https://onetaek.tistory.com/36) |
 | 2025.03 - 2025.11 | GoormthonUniv 4th - Next Career | Backend | Spring Boot | [GitHub](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_42_BE) |
 | 2025.12 - 2026.06 | Cadify | Backend | Spring Boot |  |
 | 2023.07 - 2023.10 | 에잇블룸 | Backend | NestJS | - |
